@@ -3,8 +3,8 @@ Make sure to follow the installation mentioned in the Prerequisites
 
 Then you can install the library using either yarn:
 
-yarn add customcomponent
+yarn add customchat
 or npm:
 
-npm install --save customcomponent
+npm install --save customchat
 Now you're good to go!
