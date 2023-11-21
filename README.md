@@ -3,8 +3,8 @@ Make sure to follow the installation mentioned in the Prerequisites
 
 Then you can install the library using either yarn:
 
-yarn add customchat
+yarn add react-native-customchat
 or npm:
 
-npm install --save customchat
+npm install --save react-native-customchat
 Now you're good to go!
